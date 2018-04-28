@@ -10,7 +10,7 @@ Pixi-live2d is a plugin for pixi.js for displaying live2D model as a sprite in p
 
 - Only available in WebGL
 - ECMAScript 2015+
-- [Have a look at example!](https://avgjs.github.io/pixi-live2d-example/)
+- [Have a look at example!](https://z86481356.github.io/pixi-live2d-example/)
 - [Make me know](mailto:bingfeng.web@gmail.com?subject=Hey,%20I%20made%20a%20cool%20work%20with%20your%20plugin!) if you use my plugin for cool things!
 
 ## Installation
